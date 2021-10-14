@@ -17,6 +17,7 @@
 - - - 
 
 ### 2. 메인
+- 각종 스플리터, 컬럼 너비 값 저장
 
 ![11](https://user-images.githubusercontent.com/14077108/137291838-cdadd199-0768-4ef5-b41e-5a0a1dae9dda.png)
 
