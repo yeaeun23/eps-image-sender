@@ -17,7 +17,7 @@
 - - - 
 
 ### 2. 메인
-- 각종 스플리터, 컬럼 너비, 창 크기 저장
+- 리스트 컬럼 너비, 창 크기, 스플리터 값 저장
 
 ![11](https://user-images.githubusercontent.com/14077108/137291838-cdadd199-0768-4ef5-b41e-5a0a1dae9dda.png)
 
@@ -47,7 +47,7 @@
     ![pdf](https://user-images.githubusercontent.com/14077108/137302201-ec80dca7-46c3-4423-bc9a-9195566904b0.png)
 
 #### 2-2. DB 리스트 (우측)
-- 각종 컬럼순 정렬
+- 컬럼순 정렬
 - 우클릭 메뉴
 
     ![제목 없음-3](https://user-images.githubusercontent.com/14077108/137307519-ea34a362-801a-4a42-8ec5-123f18feea00.png)
