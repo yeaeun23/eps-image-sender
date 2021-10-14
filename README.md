@@ -10,6 +10,7 @@
 ### 1. 로그인
 - 실행 → 버전 체크 → (업데이트) → 로그인
 - 아이디 저장
+- 업데이트 프로그램
 
 ![로그인1](https://user-images.githubusercontent.com/14077108/137291376-03ce0c20-7eae-44e0-9d8e-d9f7eefe9474.png)
 
