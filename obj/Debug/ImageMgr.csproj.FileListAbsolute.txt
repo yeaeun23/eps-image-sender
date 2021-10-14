@@ -1,0 +1,68 @@
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe.config
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csprojResolveAssemblyReference.cache
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Form1.resources
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Properties.Resources.resources
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csproj.GenerateResource.Cache
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.pdb
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.exe
+c:\users\예은\documents\visual studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.pdb
+C:\Users\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.ImgRegForm.resources
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe.config
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.exe
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.pdb
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\bin\Debug\ImageMgr.pdb
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Form1.resources
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.ImgRegForm.resources
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csproj.GenerateResource.Cache
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe.config
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.exe
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.pdb
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.pdb
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csprojResolveAssemblyReference.cache
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Form1.resources
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.ImgRegForm.resources
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Properties.Resources.resources
+D:\예은\My Documents\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csproj.GenerateResource.Cache
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe.config
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.exe
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.pdb
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.exe
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\bin\Debug\ImageMgr.pdb
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Form1.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.ImgRegForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.Properties.Resources.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csproj.GenerateResource.Cache
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.ImgPreviewForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.LoginForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.FolderSetForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.FileUploadForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.ConvertPdfForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.csprojResolveAssemblyReference.cache
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.SJRegForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.SJForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.SJEditForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\ImageMgr\ImageMgr\obj\Debug\ImageMgr.SJSendForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\bin\Debug\ImageMgr.exe.config
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\bin\Debug\ImageMgr.exe
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\bin\Debug\ImageMgr.pdb
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.csprojResolveAssemblyReference.cache
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.ConvertPdfForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.FileUploadForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.FolderSetForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.Form1.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.ImgPreviewForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.ImgRegForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.LoginForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.Properties.Resources.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.SJEditForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.SJForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.SJRegForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.SJSendForm.resources
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.csproj.GenerateResource.Cache
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.exe
+D:\예은\Documents\Visual Studio 2015\Projects\_포폴\eps-image-sender\obj\Debug\ImageMgr.pdb
