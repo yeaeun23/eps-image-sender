@@ -33,9 +33,9 @@
     
     ![프리뷰33](https://user-images.githubusercontent.com/14077108/137305783-356057b8-ba0d-4c54-a3d9-1b98161045df.png)
 
-    + 파일 등록 : 로컬(좌측) → 제작 서버로 EPS 파일 전송 → DB 삽입(우측) → 화면 갱신(F5)
+    + 파일 등록 : 로컬(좌측) → DB 삽입(우측) → 제작 서버로 EPS 파일 전송 → 화면 갱신
     
-    ![파일등록](https://user-images.githubusercontent.com/14077108/137301592-14b4496f-744b-46c0-850c-140dbd1ba2db.png)
+    ![제목 없음-4](https://user-images.githubusercontent.com/14077108/137322970-731d851e-3650-4135-97eb-c35f7ce61b52.png)
 
     + 파일 삭제 : 휴지통 거치지 않고 탐색기에서 삭제
     
