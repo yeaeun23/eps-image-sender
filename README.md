@@ -113,7 +113,6 @@
 ![환경설정1](https://user-images.githubusercontent.com/14077108/137308585-5b83487b-106f-4cc3-a12c-eef942ea83d3.png)
 
 #### 4-2. 테마 설정
-- Blue or White
 
 ![제목 없음-4](https://user-images.githubusercontent.com/14077108/137309875-4ceb423c-4ee4-4195-83ec-d084b7b75d92.png)
 
@@ -136,7 +135,7 @@
 
 ![새로고침](https://user-images.githubusercontent.com/14077108/137318549-9e09f02e-aa6e-456b-93bc-14f53086a4e0.png)
 
-#### 5-2. 로그아웃
-- 프로그램 재시작 or 종료
+#### 5-3. 로그아웃
+- 프로그램 재실행 or 종료
 
 ![로그아웃33](https://user-images.githubusercontent.com/14077108/137304130-cc33c449-c81e-4587-be6e-ad03afc15033.png)
