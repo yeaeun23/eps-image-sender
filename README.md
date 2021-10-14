@@ -98,9 +98,9 @@
 
     ![image](https://user-images.githubusercontent.com/14077108/137311024-fa339c89-9de0-4425-9329-bdcc3b4f09fe.png)
 
-    + 파일 요소화 : 상주화상 → 제작 서버로 전송 → DB 삽입 → 메인화면 갱신(F5)
+    + 파일 요소화 : 상주화상 → DB 삽입(우측) → 제작 서버로 전송 → 메인화면 갱신
 
-    ![image](https://user-images.githubusercontent.com/14077108/137311041-46577332-7e6d-4f32-af19-f16863adc8b9.png)
+    ![image](https://user-images.githubusercontent.com/14077108/137333897-a9707876-46bb-4dea-a153-d81ed71ae584.png)
 
 - - -
 
