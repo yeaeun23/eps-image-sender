@@ -118,7 +118,7 @@
 
 #### 4-3. 폴더/파일 설정
 
-![환경설정3](https://user-images.githubusercontent.com/14077108/137308312-b8af0176-ebb1-4867-940d-79f3a523802a.png)
+![폴더설정3](https://user-images.githubusercontent.com/14077108/137459061-3279c051-aefa-49fc-b15e-a85bbf58b1f2.png)
 
 - - -
 
