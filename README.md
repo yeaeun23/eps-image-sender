@@ -130,7 +130,7 @@
 ![초기화](https://user-images.githubusercontent.com/14077108/137319358-23766ada-de22-48a1-a35e-7a64af853b9f.png)
 
 #### 5-2. 새로고침
-- 메인화면 갱신 (좌/우측 리스트, 검색 컨트롤 값은 유지)
+- 메인화면(좌/우측 리스트) 갱신, 검색 컨트롤 값은 유지
 - 단축키 : F5
 
 ![새로고침](https://user-images.githubusercontent.com/14077108/137318549-9e09f02e-aa6e-456b-93bc-14f53086a4e0.png)
