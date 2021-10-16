@@ -54,7 +54,7 @@
 
     + Preview
 
-    + 파일 다운로드 : 각 서버 → 로컬에 저장
+    + 파일 다운로드 : 해상도별로 서버 → 로컬 저장
     
     ![파일다운로드](https://user-images.githubusercontent.com/14077108/137307863-8910d95b-db87-412a-ab1e-92721fffcb3f.png)
 
